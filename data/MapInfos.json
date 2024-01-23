@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"起始地圖","order":1,"parentId":0,"scrollX":819,"scrollY":475.5},
+{"id":2,"expanded":true,"name":"初始城鎮","order":2,"parentId":0,"scrollX":1088,"scrollY":1280},
+{"id":3,"expanded":false,"name":"房子 1","order":6,"parentId":2,"scrollX":819,"scrollY":475.5},
+{"id":4,"expanded":true,"name":"市政廳1F","order":3,"parentId":2,"scrollX":1228.5,"scrollY":713.25},
+{"id":5,"expanded":false,"name":"莉茲貝特武器店","order":5,"parentId":2,"scrollX":819,"scrollY":475.5},
+{"id":6,"expanded":false,"name":"市政廳2F","order":4,"parentId":4,"scrollX":819,"scrollY":475.5},
+{"id":7,"expanded":false,"name":"黑鐵宮","order":7,"parentId":2,"scrollX":819,"scrollY":475.5},
+{"id":8,"expanded":false,"name":"石窟","order":10,"parentId":0,"scrollX":973,"scrollY":972.5},
+{"id":9,"expanded":true,"name":"漂浮城市","order":11,"parentId":0,"scrollX":1218,"scrollY":1466},
+{"id":10,"expanded":true,"name":"旅館大廳","order":8,"parentId":2,"scrollX":819,"scrollY":475.5},
+{"id":11,"expanded":false,"name":"旅館 B1","order":9,"parentId":10,"scrollX":811,"scrollY":484.5},
+{"id":12,"expanded":false,"name":"惡魔城堡 3F","order":12,"parentId":9,"scrollX":1061,"scrollY":832.5}
+]
